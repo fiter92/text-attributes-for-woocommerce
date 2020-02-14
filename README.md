@@ -1,0 +1,44 @@
+# Text Attributes for WooCommerce
+
+[Text Attributes for WooCommerce](https://zobnin.dev/wordpress/plugins/text-attributes-for-woocommerce  "Text Attributes for WooCommerce") is a WordPress plugin that allows you to type attribute values in the input field instead of choosing from the drop-down list.
+
+## Description
+
+This plugin returns the option to choose a product attribute type, which was removed from WooCommerce 3.3. With this plugin you can use select/text/number/textarea type.
+
+## Requirements
+
+* WordPress >= 4.7
+* WooCommerce >= 3.6
+
+## Installation
+
+1. Download the [Text Attributes for WooCommerce](https://wordpress.org/plugins/text-attributes-for-woocommerce/ "Text Attributes for WooCommerce plugin") plugin from the [WordPress Plugin Repository](https://wordpress.org/plugins/text-attributes-for-woocommerce/ "Text Attributes for WooCommerce plugin").
+1. Upload the entire text-attributes-for-woocommerce folder to the /wp-content/plugins/ directory.
+1. Activate the plugin through the ‘Plugins’ menu in WordPress.
+
+## How to help
+
+Feel free to contribute. Also I will be very grateful for the [donations](https://zobnin.dev/donate "Donate"), that's a good motivation to spend more time for the open source development.
+
+## Screenshots
+
+[![](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-1.jpg)](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-1.jpg "Product Attributes screen")
+
+> Product Attributes screen.
+
+[![](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-2.jpg)](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-2.jpg "Edit Product screen")
+
+> Edit Product screen.
+
+[![](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-3.jpg)](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-3.jpg "Edit Product Attribute screen")
+
+> Edit Product Attribute screen.
+
+## Contributors
+
+* [Andrei Zobnin](https://zobnin.dev "Andrei Zobnin web developer") \<<fiter92@gmail.com>\>
+
+## License
+
+This project is licensed under [GNU General Public License v2 (or later)](./LICENSE.txt).
