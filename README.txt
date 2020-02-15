@@ -4,7 +4,7 @@ Donate link: https://zobnin.dev/donate
 Tags: woocommerce, product attributes, attribute, text attribute, attribute type
 Requires at least: 4.7
 Tested up to: 5.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -27,3 +27,11 @@ WooCommerce requires at least: 3.6
 1. Product Attributes screen
 2. Edit Attribute screen
 3. Edit Product Attributes screen
+
+
+== Changelog ==
+
+= 1.0.1 =
+*Release Date - 15 February 2019*
+
+* i18n: Added Russian translation
