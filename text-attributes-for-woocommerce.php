@@ -11,14 +11,14 @@
  * @author								Andrei Zobnin <fiter92@gmail.com>
  * @link              		https://zobnin.dev/wordpress/plugins/text-attributes-for-woocommerce
  * @since             		1.0.0
- * @version           		1.0.0
+ * @version           		1.0.1
  * @package           		Zobnin_Text_Attributes_For_WooCommerce
  *
  * @wordpress-plugin
  * Plugin Name:       		Text Attributes for WooCommerce
  * Plugin URI:        		https://zobnin.dev/wordpress/plugins/text-attributes-for-woocommerce
  * Description:       		Allows to type an attribute value in the input text field instead of choosing a value from the drop-down list
- * Version:           		1.0.0
+ * Version:           		1.0.1
  * Author:            		Andrei Zobnin
  * Author URI:        		https://zobnin.dev
  * License:           		GPL-2.0+
