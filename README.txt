@@ -9,11 +9,11 @@ Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Allows to type an attribute value in the input text field instead of choosing a value from the drop-down list
+Allows you to type attribute values in the input field instead of choosing from the drop-down list.
 
 == Description ==
 
-Returns removed from WooCommerce 3.3 option to choose a product attribute type. With this plugin you can use standard select type, text type, number type and textarea type.
+This plugin returns the option to choose a product attribute type, which was removed from WooCommerce 3.3. With this plugin you can use select/text/number/textarea type.
 
 WooCommerce requires at least: 3.6
 
@@ -25,5 +25,5 @@ WooCommerce requires at least: 3.6
 == Screenshots ==
 
 1. Product Attributes screen
-2. Edit Product screen
-3. Edit Product Attribute screen
+2. Edit Attribute screen
+3. Edit Product Attributes screen

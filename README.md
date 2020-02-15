@@ -23,17 +23,17 @@ Feel free to contribute. Also I will be very grateful for the [donations](https:
 
 ## Screenshots
 
-[![](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-1.jpg)](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-1.jpg "Product Attributes screen")
+[![](/.wordpress-org/screenshot-1.jpg)](/.wordpress-org/screenshot-1.jpg "Product Attributes screen")
 
 > Product Attributes screen.
 
-[![](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-2.jpg)](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-2.jpg "Edit Product screen")
+[![](/.wordpress-org/screenshot-2.jpg)](/.wordpress-org/screenshot-2.jpg "Edit Attribute screen")
 
-> Edit Product screen.
+> Edit Attribute screen.
 
-[![](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-3.jpg)](https://plugins.svn.wordpress.org/text-attributes-for-woocommerce/assets/screenshot-3.jpg "Edit Product Attribute screen")
+[![](/.wordpress-org/screenshot-3.jpg)](/.wordpress-org/screenshot-3.jpg "Edit Product Attributes screen")
 
-> Edit Product Attribute screen.
+> Edit Product Attributes screen.
 
 ## Contributors
 
