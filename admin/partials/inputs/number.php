@@ -12,4 +12,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
 ?>
-<input type="number" class="short attribute_value_fix" name="attribute_values[<?php echo esc_attr( $i ); ?>]" value="<?php echo (int) $this->get_attribute_value( $attribute );?>" />
+<input type="number" class="short attribute_value_fix" name="attribute_values[<?php echo esc_attr( $i ); ?>]" value="<?php echo floatval( $this->get_attribute_value( $attribute ) );?>" />
